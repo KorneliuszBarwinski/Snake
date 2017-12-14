@@ -1,0 +1,55 @@
+C:\Users\korne\Desktop\Snake\Snake 2 — kopia\SnakeGame\bin\Release\Dzwiek\1.wav
+C:\Users\korne\Desktop\Snake\Snake 2 — kopia\SnakeGame\bin\Release\Dzwiek\2.wav
+C:\Users\korne\Desktop\Snake\Snake 2 — kopia\SnakeGame\bin\Release\Grafika\apple.png
+C:\Users\korne\Desktop\Snake\Snake 2 — kopia\SnakeGame\bin\Release\Grafika\body.png
+C:\Users\korne\Desktop\Snake\Snake 2 — kopia\SnakeGame\bin\Release\Grafika\endDown.png
+C:\Users\korne\Desktop\Snake\Snake 2 — kopia\SnakeGame\bin\Release\Grafika\endLeft.png
+C:\Users\korne\Desktop\Snake\Snake 2 — kopia\SnakeGame\bin\Release\Grafika\endRight.png
+C:\Users\korne\Desktop\Snake\Snake 2 — kopia\SnakeGame\bin\Release\Grafika\endUp.png
+C:\Users\korne\Desktop\Snake\Snake 2 — kopia\SnakeGame\bin\Release\Grafika\headDown.png
+C:\Users\korne\Desktop\Snake\Snake 2 — kopia\SnakeGame\bin\Release\Grafika\headLeft.png
+C:\Users\korne\Desktop\Snake\Snake 2 — kopia\SnakeGame\bin\Release\Grafika\headRight.png
+C:\Users\korne\Desktop\Snake\Snake 2 — kopia\SnakeGame\bin\Release\Grafika\headUp.png
+C:\Users\korne\Desktop\Snake\Snake 2 — kopia\SnakeGame\bin\Release\Grafika\kolanoDL.png
+C:\Users\korne\Desktop\Snake\Snake 2 — kopia\SnakeGame\bin\Release\Grafika\kolanoDP.png
+C:\Users\korne\Desktop\Snake\Snake 2 — kopia\SnakeGame\bin\Release\Grafika\kolanoGL.png
+C:\Users\korne\Desktop\Snake\Snake 2 — kopia\SnakeGame\bin\Release\Grafika\kolanoGP.png
+C:\Users\korne\Desktop\Snake\Snake 2 — kopia\SnakeGame\bin\Release\SnakeGame.exe.config
+C:\Users\korne\Desktop\Snake\Snake 2 — kopia\SnakeGame\bin\Release\SnakeGame.exe
+C:\Users\korne\Desktop\Snake\Snake 2 — kopia\SnakeGame\bin\Release\SnakeGame.pdb
+C:\Users\korne\Desktop\Snake\Snake 2 — kopia\SnakeGame\obj\Release\SnakeGame.Form1.resources
+C:\Users\korne\Desktop\Snake\Snake 2 — kopia\SnakeGame\obj\Release\SnakeGame.Properties.Resources.resources
+C:\Users\korne\Desktop\Snake\Snake 2 — kopia\SnakeGame\obj\Release\SnakeGame.csproj.GenerateResource.Cache
+C:\Users\korne\Desktop\Snake\Snake 2 — kopia\SnakeGame\obj\Release\SnakeGame.csproj.CoreCompileInputs.cache
+C:\Users\korne\Desktop\Snake\Snake 2 — kopia\SnakeGame\obj\Release\SnakeGame.exe
+C:\Users\korne\Desktop\Snake\Snake 2 — kopia\SnakeGame\obj\Release\SnakeGame.pdb
+C:\Users\korne\Desktop\Snake\Snake 2.2\SnakeGame\bin\Release\Grafika\blackout.png
+C:\Users\korne\Desktop\Snake\Snake 2.2\SnakeGame\bin\Release\Dzwiek\1.wav
+C:\Users\korne\Desktop\Snake\Snake 2.2\SnakeGame\bin\Release\Dzwiek\2.wav
+C:\Users\korne\Desktop\Snake\Snake 2.2\SnakeGame\bin\Release\Grafika\apple.png
+C:\Users\korne\Desktop\Snake\Snake 2.2\SnakeGame\bin\Release\Grafika\body.png
+C:\Users\korne\Desktop\Snake\Snake 2.2\SnakeGame\bin\Release\Grafika\endDown.png
+C:\Users\korne\Desktop\Snake\Snake 2.2\SnakeGame\bin\Release\Grafika\endLeft.png
+C:\Users\korne\Desktop\Snake\Snake 2.2\SnakeGame\bin\Release\Grafika\endRight.png
+C:\Users\korne\Desktop\Snake\Snake 2.2\SnakeGame\bin\Release\Grafika\endUp.png
+C:\Users\korne\Desktop\Snake\Snake 2.2\SnakeGame\bin\Release\Grafika\headDown.png
+C:\Users\korne\Desktop\Snake\Snake 2.2\SnakeGame\bin\Release\Grafika\headLeft.png
+C:\Users\korne\Desktop\Snake\Snake 2.2\SnakeGame\bin\Release\Grafika\headRight.png
+C:\Users\korne\Desktop\Snake\Snake 2.2\SnakeGame\bin\Release\Grafika\headUp.png
+C:\Users\korne\Desktop\Snake\Snake 2.2\SnakeGame\bin\Release\Grafika\kolanoDL.png
+C:\Users\korne\Desktop\Snake\Snake 2.2\SnakeGame\bin\Release\Grafika\kolanoDP.png
+C:\Users\korne\Desktop\Snake\Snake 2.2\SnakeGame\bin\Release\Grafika\kolanoGL.png
+C:\Users\korne\Desktop\Snake\Snake 2.2\SnakeGame\bin\Release\Grafika\kolanoGP.png
+C:\Users\korne\Desktop\Snake\Snake 2.2\SnakeGame\bin\Release\Grafika\owocCzerwony.png
+C:\Users\korne\Desktop\Snake\Snake 2.2\SnakeGame\bin\Release\Grafika\owocNiebieski.png
+C:\Users\korne\Desktop\Snake\Snake 2.2\SnakeGame\bin\Release\Grafika\owocZielony.png
+C:\Users\korne\Desktop\Snake\Snake 2.2\SnakeGame\bin\Release\SnakeGame.exe.config
+C:\Users\korne\Desktop\Snake\Snake 2.2\SnakeGame\bin\Release\SnakeGame.exe
+C:\Users\korne\Desktop\Snake\Snake 2.2\SnakeGame\bin\Release\SnakeGame.pdb
+C:\Users\korne\Desktop\Snake\Snake 2.2\SnakeGame\obj\Release\SnakeGame.csprojResolveAssemblyReference.cache
+C:\Users\korne\Desktop\Snake\Snake 2.2\SnakeGame\obj\Release\SnakeGame.Form1.resources
+C:\Users\korne\Desktop\Snake\Snake 2.2\SnakeGame\obj\Release\SnakeGame.Properties.Resources.resources
+C:\Users\korne\Desktop\Snake\Snake 2.2\SnakeGame\obj\Release\SnakeGame.csproj.GenerateResource.Cache
+C:\Users\korne\Desktop\Snake\Snake 2.2\SnakeGame\obj\Release\SnakeGame.csproj.CoreCompileInputs.cache
+C:\Users\korne\Desktop\Snake\Snake 2.2\SnakeGame\obj\Release\SnakeGame.exe
+C:\Users\korne\Desktop\Snake\Snake 2.2\SnakeGame\obj\Release\SnakeGame.pdb
